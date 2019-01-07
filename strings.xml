@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GPACalculator</string>
+    <string name="msgItem">Items</string>
+    <string name="msgScore">Score</string>
+    <string name="msgPercent">Percentage</string>
+    <string name="msgHomework">Homework</string>
+    <string name="msgQuiz">Quiz</string>
+    <string name="msgMidterm">Midterm</string>
+    <string name="msgFinal">Final</string>
+    <string name="hintScore">Enter score:</string>
+    <string name="hintPercentage">Enter percentage:</string>
+    <string name="result">You get</string>
+    <string name="calculation">%s</string>
+    <string name="calculate">CALCULATE</string>
+
+
+
+</resources>
